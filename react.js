@@ -21,4 +21,4 @@ export function Search(){
     <input type="password" placeholder="Search"/>
     </div>
     
-    
+    export default App;
